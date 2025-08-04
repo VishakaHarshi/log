@@ -1,9 +1,9 @@
 # log
 new path
-<h1 align="center">Hi 👋, I'm Ruwini Tharuka Nawarathna</h1>
+<h1 align="center">Hi 👋, I'm Vishaka Harshani Nawarathna</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruwinitharuka&label=Profile%20views&color=0e75b6&style=flat" alt="ruwinitharuka" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruwinitharuka" alt="ruwinitharuka" /></a> </p>
-- 🔭 I’m currently working on **HNDIT Student**
+- 🔭 I’m currently working on **HNDIT Undergraduate Student**
 - 👯 I’m looking to collaborate on **Website**
 - 🤝 I’m looking for help with **POS System**
 - ⚡ Fun fact **I am funny**
